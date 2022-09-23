@@ -1,0 +1,17 @@
+# Get data
+
+Getting student details with the help of Get command.
+
+http://api.login2explore.com:5577/api/irl
+
+Example code
+
+{
+    "token": "90937438|-31949292815899541|90943058",
+    "cmd": "GET",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr":{
+        "name": "pradeep"
+    }
+}
