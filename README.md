@@ -20,3 +20,9 @@
 
 ![Dashboard](https://user-images.githubusercontent.com/110367400/191881158-6a6ade78-681b-43a5-ae52-59b1cf4b5521.png)
 
+
+![Employee details](https://user-images.githubusercontent.com/110367400/191881299-236cdac2-332c-4da0-9768-e2aca87d8d02.png)
+
+
+![Student details](https://user-images.githubusercontent.com/110367400/191881309-11edeb0f-2f23-402c-a7c6-834f29327293.png)
+
