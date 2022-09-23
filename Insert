@@ -1,0 +1,16 @@
+# Insert Data with the help of put Commend.
+
+http://api.login2explore.com:5577/api/iml
+
+{
+    "token": "90937438|-31949292815899541|90943058",
+    "cmd": "PUT",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr": {
+        "id": "2",
+        "name": "pradeep",
+        "email": "abcda@gmail.com",
+        "mobileno": "9874563215"
+    }
+}
